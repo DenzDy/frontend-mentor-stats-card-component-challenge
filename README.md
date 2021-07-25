@@ -34,8 +34,8 @@ View the optimal layout depending on their device's screen size
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/DenzDy/frontend-mentor-stats-card-component-challenge)
+- Live Site URL: [Live Site URL](https://denzdy.github.io/frontend-mentor-stats-card-component-challenge/)
 
 ### Built with
 
